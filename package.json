@@ -1,0 +1,27 @@
+{
+  "name": "advanced_api",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000d\u0000v\u0000a\u0000n\u0000c\u0000e\u0000-\u0000A\u0000P\u0000I\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+  "start": "node app.js",
+  "dev": "nodemon app.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyrillotk/Advance-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Cyrillotk/Advance-API/issues"
+  },
+  "homepage": "https://github.com/Cyrillotk/Advance-API#readme",
+  "dependencies": {
+    "dotenv": "^18.0.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.10.2"
+  }
+}
